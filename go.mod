@@ -1,4 +1,4 @@
-module jazz/v1
+module go-api-jazz/v1
 
 go 1.17
 
